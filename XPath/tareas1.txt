@@ -1,0 +1,44 @@
+/equipos/máquina/hardware/disco[@tecnoloxía="SCSI"]
+/equipos/máquina/config/IP[text()="192.168.10.45"]/ancestor::config/OS/text()
+/equipos/máquina/hardware/procesador[@marca="AMD"]
+/equipos/máquina[@nome="COPERNICO"]/config/descendant-or-self::*/text()
+//config[OS="Windows XP"]/ancestor::máquina/hardware[tipo="Semitorre"]
+//hardware/memoria[@tecnoloxía="DDR2"]/ancestor::hardware[memoria="4"]/ancestor::máquina/hardware/fabricante/text()
+//máquina/hardware/procesador/@num_nucleos/ancestor::máquina/config/OS
+//hardware/memoria[@tecnoloxía="DDR2"]/ancestor::máquina/@nome
+//hardware/procesador[@marca="Intel"]/ancestor::hardware/gravadora/ancestor::máquina
+//config/gateway/text()/ancestor::config
+
+
+/videoteca/*/comment()
+/videoteca/película[título="Leaving Las Vegas"]/comment()
+//película[xénero="Drama"]
+//actor[sexo="muller"]/descendant::nome/text()
+//node()[text()!=""]
+
+
+/equipos/máquina[starts-with(@nome,"PC")]
+/equipos/máquina/hardware[count(disco)>=1]/ancestor::máquina/@nome
+sum(/equipos/máquina/hardware/memoria/text())
+sum(/equipos/máquina/hardware/disco[@tecnoloxía="SCSI"]/@capacidade)
+//máquina[hardware/memoria/text()][hardware/memoria[(not(@tecnoloxía))]]/@nome
+//máquina[config/OS/text()][hardware/gravadora/@tipo="DVD"]
+//máquina[config[not(OS)]]
+//máquina[hardware[count(disco)>1]]/@nome
+|
+//máquina[hardware[count(disco)>1]]/config/OS/text()
+//máquina[config/IP][config[(not(gateway))]]/@nome
+//node()[text()!=""]
+//config[starts-with(IP,"192.168.10")]/IP/text()
+/equipos/máquina[hardware/procesador/@num_nucleos][hardware/memoria>=2]/@nome
+//máquina[sum(hardware/disco/@capacidade)>1000]/@nome
+//máquina[sum(hardware/disco/@capacidade)<80]/@nome
+
+
+//película[título=títuloorixinal]
+//actor[nome="Elisabeth Shue"]/@id
+//película[actúa/@id=51]/título
+//película[actúa/@id=//actor[nome="Elisabeth Shue"]/@id]/título
+//película[last()]/título
+sum(//importe[@moneda="dólar"])
+sum(//importe[@moneda="dólar"]) div 1.4 + sum(//importe[@moneda="euro"])
