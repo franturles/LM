@@ -1,0 +1,190 @@
+<xml version="1.1" encoding="utf-8">
+
+<!-- ciclos.xml -->
+<ciclos>
+<ciclo id="ASIR" grao="CS">
+<modulo id="MP0370">
+    <nome>Planificación e administración de redes</nome>
+    <horas>213</horas>
+</modulo>
+
+<modulo id="MP0371">
+    <nome>Fundamentos hardware</nome>
+    <horas>107</horas>
+</modulo>
+
+<modulo id="MP0380">
+    <nome>Formación e orientación laboral</nome>
+    <horas>107</horas>
+</modulo>
+
+<modulo id="MP0369">
+    <nome>Implantacion de Sistemas Operativos</nome>
+    <horas>213</horas>
+</modulo>
+
+
+<modulo id="MP0373">
+    <nome>Linguaxes de marcas e sistemas de xestión de información</nome>
+    <horas>133</horas>
+</modulo>
+
+<modulo id="MP0372">
+    <nome> Xestión de bases de datos </nome>
+    <horas>187</horas>
+</modulo>
+
+<modulo id="MP0374">
+    <nome> Administración de sistemas operativos	</nome>
+    <horas>140</horas>
+</modulo>
+
+<modulo id="MP0374">
+    <nome>Administracion de sistemas operativos</nome>
+    <horas>140</horas>
+</modulo>
+
+<modulo id="MP0377">
+    <nome>Administracion de sistemas gestores de bases de datos</nome>
+    <horas>70</horas>
+</modulo>
+
+<modulo id="MP0376">
+    <nome> Implantación de aplicacións web </nome>
+    <horas>122</horas>
+</modulo>
+
+<modulo id="MP0378">
+    <nome>Seguridade e alta dispoñibilidade </nome>
+    <horas>105</horas>
+</modulo>
+
+<modulo id="MP0375">
+    <nome>Servizos de rede e internet</nome>
+    <horas>140</horas>
+</modulo>
+</ciclo>
+
+<ciclo id="DAW" grao="CS">
+    <modulo id="MP0484">
+        <nome>Bases de datos</nome>
+        <horas>187</horas>
+    </modulo>
+
+    <modulo id="MP0487">
+        <nome> Contornos de desenvolvemento </nome>
+        <horas>187</horas>
+    </modulo>
+
+    <modulo id="MP0617">
+        <nome> Formación e orientación laboral </nome>
+        <horas>107</horas>
+    </modulo>
+
+    <modulo id="MP0373">
+        <nome>Linguaxes de marcas e sistemas de xestión de información</nome>
+        <horas>133</horas>
+    </modulo>
+
+    <modulo id="MP0485">
+        <nome>Programacion</nome>
+        <horas>240</horas>
+    </modulo>
+
+    <modulo id="MP0483">
+        <nome>Sistemas Informaticos</nome>
+        <horas>186</horas>
+    </modulo>
+
+    <modulo id="MP0615">
+        <nome>Deseños de interfaces web</nome>
+        <horas>157</horas>
+    </modulo>
+
+    <modulo id="MP0612">
+        <nome> Desenvolvemento web en contorno cliente </nome>
+        <horas>157</horas>
+    </modulo>
+
+    <modulo id="MP0613">
+        <nome> Desenvolvemento web en contorno Servidor </nome>
+        <horas>175</horas>
+    </modulo>
+
+    <modulo id="MP0614">
+        <nome> Despregamento de aplicacións web </nome>
+        <horas>88</horas>
+    </modulo>
+    <modulo id="MP0618">
+        <nome>Empresa e iniciativa emprendedora</nome>
+        <horas>53</horas>
+    </modulo>
+    <modulo id="MP0619">
+        <nome> Formación en centros de traballo </nome>
+        <horas>384</horas>
+    </modulo>
+    <modulo id="MP0616">
+        <nome> Proxecto de desenvolvemento de aplicacións web </nome>
+        <horas>26</horas>
+    </modulo>
+</ciclo >
+<ciclo nombre="DAWM" grao="CS">
+    <modulo id="MP0484">
+        <nome>Bases de datos</nome>
+        <horas>187</horas>
+    </modulo>
+    <modulo id="MP0487">
+        <nome>Contornos de desenvolvemento</nome>
+        <horas>107</horas>
+    </modulo>
+    <modulo id="MP0493">
+        <nome>Formacion e orientacion laboral</nome>
+        <horas>107</horas>
+    </modulo>
+    <modulo id="MP0373">
+        <nome> Linguaxes de marcas e sistemas de xestión de información </nome>
+        <horas>133</horas>
+    </modulo>
+    <modulo id="MP0485">
+        <nome>Programación</nome>
+        <horas>240</horas>
+    </modulo>
+    <modulo id="MP0483">
+        <nome> Sistemas informáticos </nome>
+        <horas>186</horas>
+    </modulo>
+    <modulo id="MP0486">
+        <nome>Acceso a datos</nome>
+        <horas>157</horas>
+    </modulo>
+    <modulo id="MP0488">
+        <nome>Desenvolvemento de interfaces	</nome>
+        <horas>140</horas>
+    </modulo>
+    <modulo id="MP0494">
+        <nome>Empresa e iniciativa emprendedora	</nome>
+        <horas>53</horas>
+    </modulo>
+    <modulo id="MP0495">
+        <nome>Formación en centros de traballo</nome>
+        <horas>384</horas>
+    </modulo>
+    <modulo id="MP0490">
+        <nome>Programación de servizos e procesos</nome>
+        <horas>70</horas>
+    </modulo>
+    <modulo id="MP0489">
+        <nome>Programación de servizos e procesos</nome>
+        <horas>123</horas>
+    </modulo>
+    <modulo id="MP0492">
+        <nome>Proxecto de desenvolvemento de aplicacións multiplataforma</nome>
+        <horas>26</horas>
+    </modulo>
+    <modulo id="MP0491">
+        <nome>Sistemas de xestión empresarial</nome>
+        <horas>87</horas>
+    </modulo>
+</ciclo>
+</ciclos>
+</xml>

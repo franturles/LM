@@ -1,0 +1,83 @@
+<xml version="1.1" encoding="utf-8">
+<!-- alumnos.xml -->
+<alumnos>
+<alumno>
+    <nome>Xoan</nome>
+    <apelidos>Cancedo da Foz</apelidos>
+    <ciclo>ASIR ordinario</ciclo>
+    <curso>1º</curso>
+    <datanacemento>06/11/1991</datanacemento>
+    <nota>Xa fixo outro ciclo</nota>
+</alumno>
+    <nome>Enrique</nome>
+    <apelidos>Pastor</apelidos>
+    <ciclo>DAW ordinario</ciclo>
+    <curso>2º</curso>
+    <datanacemento>07/08/1999</datanacemento>
+    <nota>7,5</nota>
+<alumno>
+    <nome>Antonio</nome>
+    <apelidos>Recio Matamoros</apelidos>
+    <ciclo>DAWM ordinario</ciclo>
+    <curso>1º</curso>
+    <datanacemento>05/06/1998</datanacemento>
+    <nota>6,7</nota>
+</alumno>
+<alumno>
+    <nome>Berta</nome>
+    <apelidos>Escobar</apelidos>
+    <ciclo>ASIR ordinario</ciclo>
+    <curso>2º</curso>
+    <datanacemento>18/10/2000</datanacemento>
+    <nota>8,7</nota>
+</alumno>
+<alumno>
+    <nome>Nagito</nome>
+    <apelidos>Komaeda</apelidos>
+    <ciclo>DAW ordinario</ciclo>
+    <curso>2º</curso>
+    <datanacemento>25/12/2000</datanacemento>
+    <nota>7</nota>
+</alumno>
+<alumno>
+    <nome>Levi</nome>
+    <apelidos>Ackerman</apelidos>
+    <ciclo>ASIR Nocturno</ciclo>
+    <curso>1º</curso>
+    <datanacemento>01/02/1998</datanacemento>
+    <nota>6</nota>
+</alumno>
+<alumno>
+    <nome>Chris</nome>
+    <apelidos>Walker</apelidos>
+    <ciclo>DAWM</ciclo>
+    <curso>2º</curso>
+    <datanacemento>14/06/1995</datanacemento>
+    <nota>5,1</nota>
+</alumno>
+<alumno>
+    <nome>Jean Pierre</nome>
+    <apelidos>Polnareff</apelidos>
+    <ciclo>DAW</ciclo>
+    <curso>1º</curso>
+    <datanacemento>15/05/1998</datanacemento>
+    <nota>10</nota>
+</alumno>
+<alumno>
+    <nome>Sigma</nome>
+    <apelidos>Klim</apelidos>
+    <ciclo>DAWM</ciclo>
+    <curso>2º</curso>
+    <datanacemento>18/09/1993</datanacemento>
+    <nota>9,5</nota>
+</alumno>
+<alumno>
+    <nome>Dalinar</nome>
+    <apelidos>Kholin</apelidos>
+    <ciclo>DAW</ciclo>
+    <curso>1º</curso>
+    <datanacemento>21/01/1998</datanacemento>
+    <nota>8.5</nota>
+</alumno>
+</alumnos>
+</xml>

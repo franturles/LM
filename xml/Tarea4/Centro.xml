@@ -1,0 +1,57 @@
+<xml version="1.1" encoding="utf-8">
+<centro xmlns:ci1="https://www.abrirllave.com/xml/espacios-de-nombres/ci1"
+        xmlns:ci2="https://www.abrirllave.com/xml/espacios-de-nombres/ci2">
+    <ci1:ASIR >
+        <ci1:modulo id="MP0369">
+            <ci1:Nombre>Implantacion de Sistemas Operativos</ci1:Nombre>
+            <ci1:Horas>213</ci1:Horas>
+        </ci1:modulo>
+        <ci1:modulo id="MP0376">
+            <ci1:Nombre>Implantación de aplicacións web</ci1:Nombre>
+            <ci1:Horas>122</ci1:Horas>
+        </ci1:modulo>
+        <ci1:alumno xmlns:ci1="https://www.abrirllave.com/xml/espacios-de-nombres/ci1">
+            <ci1:Nome>Berta</ci1:Nome>
+            <ci1:Apelidos>Escobar</ci1:Apelidos>
+            <ci1:Datanac>18/10/2000</ci1:Datanac>
+            <ci1:Nota>10</ci1:Nota>
+            <ci1:Modulo>Implantacion de Sistemas Operativos</ci1:Modulo>
+            <ci1:Modulo>Linguaxes de marcas e sistemas de xestión de información</ci1:Modulo>
+        </ci1:alumno>
+        <ci1:alumno>
+            <ci1:Nome>Levi</ci1:Nome>
+            <ci1:Apelidos>Ackerman</ci1:Apelidos>
+            <ci1:Datanac>01/02/1998</ci1:Datanac>
+            <ci1:Nota>6</ci1:Nota>
+            <ci1:Modulo>Fundamentos hardware</ci1:Modulo>
+            <ci1:Modulo> Xestión de bases de datos </ci1:Modulo>
+        </ci1:alumno>
+    </ci1:ASIR>
+    <ci2:DAW >
+        <ci2:modulo id="MP0378">
+            <ci2:Nombre>Seguridade e alta dispoñibilidade</ci2:Nombre>
+            <ci2:Horas>105</ci2:Horas>
+        </ci2:modulo>
+        <ci2:modulo id="MP0487">
+            <ci2:Nombre>Contornos de desenvolvemento</ci2:Nombre>
+            <ci2:Horas>187</ci2:Horas>
+        </ci2:modulo>
+        <ci2:alumno>
+            <ci2:Nome>Jean Pierre</ci2:Nome>
+            <ci2:Apelidos>Polnareff</ci2:Apelidos>
+            <ci2:Datanac>15/05/1998</ci2:Datanac>
+            <ci2:Nota>10</ci2:Nota>
+            <ci2:Modulo>Bases de datos</ci2:Modulo>
+            <ci2:Modulo>Contornos de desenvolvemento</ci2:Modulo>
+        </ci2:alumno>
+        <ci2:alumno>
+            <ci2:Nome>Dalinar</ci2:Nome>
+            <ci2:Apelidos>Kholin</ci2:Apelidos>
+            <ci2:Datanac>21/01/1998</ci2:Datanac>
+            <ci2:Nota>8.5</ci2:Nota>
+            <ci2:Modulo> Despregamento de aplicacións web </ci2:Modulo>
+            <ci2:Modulo>Deseños de interfaces webs</ci2:Modulo>
+        </ci2:alumno>
+    </ci2:DAW>
+</centro>
+</xml>

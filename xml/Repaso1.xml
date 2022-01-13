@@ -1,0 +1,52 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<mensaje>
+    <remite>
+        <nombre>Alfredo Reino</nombre>
+        <email>alf@ibium.com</email>
+    </remite>
+    <destinatario>
+        <nombre>Bill Clinton</nombre>
+        <email>president@whitehouse.gov</email>
+    </destinatario>
+    <asunto>Hola Bill</asunto>
+    <texto>
+        <parrafo>¿Hola que tal?</parrafo>
+    </texto>
+</mensaje>
+
+<ciudades xmlns:c1="http://www.iescentro.com/espazos/ciudad1/"
+xmlns:c2="http://www.iescentro.com/espazos/ciudad2/"
+xmlns:c3="http://www.iescentro.com/espazos/ciudad3/">
+    <c1:ciudad>
+        <c1:nombre>Nueva Delhi</c1:nombre>
+        <c1:pais>India</c1:pais>
+        <c1:continente>Asia</c1:continente>
+    </c1:ciudad>
+    <c2:ciudad>
+        <c2:nombre>Lisboa</c2:nombre>
+        <c2:pais>Portugal</c2:pais>
+        <c2:continente>Europa</c2:continente>
+    </c2:ciudad>
+    <c3:ciudad>
+        <c3:nombre>El Cairo</c3:nombre>
+        <c3:pais>Egipto</c3:pais>
+        <c3:continente>Africa</c3:continente>
+    </c3:ciudad>
+</ciudades>
+
+<personas>
+<persona>
+    <nombre>Juan Pardo</nombre>
+    <nacimiento dia="10" mes="Abril" año="1982"/>
+    <direccion>
+        <calle>Caoba,1</calle>
+        <poblacion>Madrid</poblacion>
+        <provincia>Madrid</provincia>
+        <cpostal>28005</cpostal>
+    </direccion>
+    <varon/>
+</persona>
+</personas>
+
+
+
