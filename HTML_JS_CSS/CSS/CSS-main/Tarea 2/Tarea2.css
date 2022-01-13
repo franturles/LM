@@ -1,0 +1,29 @@
+body {
+    color: blue;
+    size: 12pt;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 300%;
+}
+p {
+    text-align: justify;
+    text-indent: 20px;
+    word-spacing: 4px;
+}
+h1 {
+    color: red;
+    font-size: 50%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+h2 {
+    color: green;
+    font-size: 25%;
+    font-family: 'Garamond', arial;
+}
+strong {
+
+}
+em {
+    font-style: normal;
+    text-decoration: underline;
+}

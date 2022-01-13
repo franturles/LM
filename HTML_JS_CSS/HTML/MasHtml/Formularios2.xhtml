@@ -1,0 +1,54 @@
+<html lang="es" charset="UTF-8">
+<head>
+    <h1>Reserva Hotel</h1>
+    <h2>Rellene el formulario para hacer la reserva</h2>
+</head>
+<body>
+    <form action="reservas@mihotel.com">
+    <p>
+        <label>Nombre</label><br>
+        <input type="text" name="Nombre">
+        </p>
+        <p>
+            <label>Apellidos</label><br>
+            <input type="text" name="Apellidos">
+        </p>
+        <p>
+            <label>Numero de Telefono</label><br>
+            <input type="tel" name="Numero" >
+        </p>
+        <p>
+            <label>Correo Electronico</label><br>
+            <input type="email" name="email">
+        </p>
+        <p>
+            <label>Numero de noches</label><br>
+            <input type="number" name="noches" max="30" min="1">
+        </p>
+        <p>
+            <label>Fecha de Entrada</label><br>
+            <input type="date">
+        </p>
+        <p>
+        <label>Tipo de habitacion:</label><br>
+        <label name="habitacion">Simple</label><input type="radio" name="cama"><br>
+        <label name="habitacion">Doble</label><input type="radio" name="cama"><br>
+        <label name="habitacion">Matrimonio</label><input type="radio" name="cama">
+        </p>
+        <p>
+            <label>Elige:</label><br>
+            <label>Almuerzo</label><input type="checkbox"><br>
+            <label>Comida</label><input type="checkbox"><br>
+            <label>Cena</label><input type="checkbox"><br>
+            <label>Cama Supletoria<input type="checkbox"></label>
+        </p>
+        <p>
+            <label>Ponga un comentario:</label><br>
+            <textarea cols="20" rows="5"></textarea>
+        </p>
+        <p>
+            <input type="reset"> <input type="submit">
+        </p>
+    </form>
+</body>
+</html>

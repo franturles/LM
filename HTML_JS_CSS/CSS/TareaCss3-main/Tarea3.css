@@ -1,0 +1,76 @@
+* {
+    font-family: "Trebuchet MS", Tahoma, Arial, sans-serif;
+    margin: 0 auto;
+    width: 1200px;
+}
+.Titulo {
+    background-color: black;
+    padding: 10px;
+    color: white;
+    border: outset #999999;
+    border-width: 7pt;
+    margin: 10pt;
+    font-family: sans-serif;
+    font-size: 10px;
+    font-weight: normal;
+    width: 1120px;
+}
+.Menu {
+    border: 7px groove #999999;
+    width: 350px;
+    padding: 10px;
+    margin: 5pt;
+    margin-top: 32px;
+	background-color: #cccccc;
+    border-left: solid #444444;
+    border-top: solid #444444;
+    font-size: 90%;
+    height: 18%;
+}
+.Espacio {
+    border: groove #999999;
+    margin: 35px;
+    margin-left: 100px;
+	background-color: #cccccc;
+    float: right;
+    height: 686px;
+    margin-top: 15px;
+    padding: 10px;
+    width: 730px;
+    font-size: 93%;
+    border-width: 10px;
+}
+.Paginas {
+    border: 7px groove #999999;
+    width: 350px;
+	background-color: #cccccc;
+    height: 500px;
+    margin-top: 15px;
+    margin: 5pt;
+    padding: 10px;
+}
+body {
+    background-color: #444444;
+}
+ul {
+    list-style: none;
+}
+p {
+    line-height: 180%;
+}
+.Pie {
+    border: 10pt outset #999999;
+    background-color: black;
+    float: left;
+    color: white;
+    text-align: center;
+    margin-top: 0px;
+    width:1160px;	
+    border-width: 10px;
+}
+img {
+    width: 80px;
+    float: right;
+    padding-right: 10px;
+    margin-right: 1%;
+}
